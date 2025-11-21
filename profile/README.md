@@ -33,7 +33,7 @@ MOVR data is available **FREE** to scientists and academics for **research purpo
 
 | Resource | Link |
 |----------|------|
-| Data Request Portal | [mda.org/research/data-request](https://mdausa.tfaforms.net/389761) |
+| Data Request Portal | [mda-movr-data-request](https://mdausa.tfaforms.net/389761) |
 | Email | mdamovr@mdausa.org |
 
 ---
@@ -72,7 +72,7 @@ OpenMOVR participates in **Google Summer of Code**, mentoring students to build 
 ## Get Involved
 
 ### For Researchers & Data Scientists
-1. [Request data access](https://www.mda.org/research) through official MDA channels
+1. [Request data access](https://mdausa.tfaforms.net/389761) through official MDA channels
 2. Use our open source tools: `pip install movr-datahub-analytics`
 3. Explore documentation at [openmovr.github.io](https://openmovr.github.io)
 
