@@ -6,14 +6,14 @@
 
 ## About MOVR Data Hub
 
-The **MOVR (Muscular Dystrophy Outcomes and Value in Research) Data Hub** is one of the largest neuromuscular disease registries in the world, maintained by the Muscular Dystrophy Association (MDA).
+The **MOVR (Muscular Dystrophy Outcomes and Value in Research) Data Hub** is one of the largest US neuromuscular disease registries, maintained by the Muscular Dystrophy Association (MDA).
 
 | Metric | Value |
 |--------|-------|
 | Participants | 6,021+ |
 | Clinical Visits | 20,883+ |
 | Years of Data | 12+ |
-| Diseases | DMD, SMA, ALS, Pompe, and more |
+| Diseases | ALS, BMD, DMD, SMA, LGMD, FHSD , and Pompe |
 
 OpenMOVR is the open science initiative that makes this data accessible to the research community through standardized tools, documentation, and collaborative development.
 
@@ -29,11 +29,11 @@ MOVR data is available **FREE** to scientists and academics for **research purpo
 - All requests require a formal Data Use Agreement
 - Access is granted through official MDA channels
 
-**To request data access:**
+**To request data access:** 
 
 | Resource | Link |
 |----------|------|
-| Data Request Portal | [mda.org/research/data-request](https://www.mda.org/research) |
+| Data Request Portal | [mda.org/research/data-request](https://mdausa.tfaforms.net/389761) |
 | Email | mdamovr@mdausa.org |
 
 ---
